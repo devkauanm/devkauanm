@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=KAUAN%20MARTINS%20SILVA&fontSize=50&fontColor=00fff2&fontAlignY=38&desc=SYSTEM%20ONLINE%20//%20FULLSTACK%20DEVELOPER%20%26%20AUTOMATION%20MANAGER&descAlignY=58&descAlign=50&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=KAUAN%20MARTINS%20SILVA&fontSize=50&fontColor=00fff2&fontAlignY=38&desc=SYSTEM%20ONLINE%20//%20FULLSTACK%20DEVELOPER%20%C2%B7%20AUTOMATION%20MANAGER&descAlignY=58&descAlign=50&animation=fadeIn" />
 
 <br/>
 
@@ -82,21 +82,20 @@ missão:          "Transformar processos manuais em sistemas
 
 **Automação & Inteligência Artificial**
 
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" title="n8n" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openai/00A67E" width="48" height="48" title="OpenAI / LLMs" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" title="WhatsApp API" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/chatwoot/1F93FF" width="48" height="48" title="Chatwoot" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/redis/DC382D" width="48" height="48" title="Redis" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/webhooks/6C5CE7" width="48" height="48" title="Webhooks" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/OpenAI-00A67E?style=for-the-badge&logo=openai&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white&labelColor=0f0c29"/>
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" height="35" />
 
 <br/><br/>
 
 **Infra, Dados & Ferramentas**
 
 <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,vscode,idea,postman,figma&theme=dark" />
-<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="48" height="48" title="Supabase" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/googlesheets/34A853" width="48" height="48" title="Google Sheets" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/totvs/00A651" width="48" height="48" title="TOTVS Protheus (ERP)" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/TOTVS_Protheus_(ERP)-00A651?style=for-the-badge&labelColor=0f0c29"/>
 
 </div>
 
