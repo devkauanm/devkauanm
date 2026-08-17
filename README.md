@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=KAUAN%20MARTINS%20SILVA&fontSize=52&fontColor=00fff2&fontAlignY=38&desc=SYSTEM%20ONLINE%20//%20SOFTWARE%20%26%20AUTOMATION%20MANAGER&descAlignY=58&descAlign=50&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=KAUAN%20MARTINS%20SILVA&fontSize=50&fontColor=00fff2&fontAlignY=38&desc=SYSTEM%20ONLINE%20//%20FULLSTACK%20DEVELOPER%20%26%20AUTOMATION%20MANAGER&descAlignY=58&descAlign=50&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=%3E+INITIALIZING+KAUAN.EXE...;%3E+LOADING+CORE+MODULES%3A+N8N+%7C+AI+%7C+AUTOMATION;%3E+BUILDING+INTELLIGENT+SYSTEMS+24%2F7;%3E+ACCESS+GRANTED+%E2%9C%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=100&lines=%3E+INITIALIZING+KAUAN.EXE...;%3E+ROLE%3A+DESENVOLVEDOR+FULLSTACK+JUNIOR;%3E+CORE%3A+N8N+%7C+IA+GENERATIVA+%7C+AUTOMA%C3%87%C3%83O;%3E+ACCESS+GRANTED+%E2%9C%93" alt="Typing SVG" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0f0c29&logo=statuspage&logoColor=00fff2" />
-<img src="https://img.shields.io/badge/ROLE-AUTOMATION_MANAGER-ff00c8?style=for-the-badge&labelColor=0f0c29&logo=robotframework&logoColor=ff00c8" />
-<img src="https://img.shields.io/badge/LOCATION-BRAZIL-6c5ce7?style=for-the-badge&labelColor=0f0c29&logo=googlemaps&logoColor=6c5ce7" />
+<img src="https://img.shields.io/badge/CARGO-FULLSTACK_JUNIOR-ff00c8?style=for-the-badge&labelColor=0f0c29&logo=codeforces&logoColor=ff00c8" />
+<img src="https://img.shields.io/badge/LOCALIZAÇÃO-BRASIL-6c5ce7?style=for-the-badge&labelColor=0f0c29&logo=googlemaps&logoColor=6c5ce7" />
 
 </div>
 
@@ -29,23 +29,34 @@
 ```yaml
 > USER_PROFILE.log
 
-nome:          Kauan Martins Silva
-cargo:         Software Development & Automation Manager
-empresa:       Agência MADA (desde 2025)
-formação:      Bacharelado em Ciência da Computação
-               Universidade São Judas Tadeu (2026 – 2030)
-certificados:
-  - Especialista em Algoritmos e Programação
+nome:            Kauan Martins Silva
+objetivo:        Desenvolvedor FullStack Junior
+cargo_atual:     Gestor — Agência MADA (05/2025 – presente)
+
+formação:
+  - Bacharelado em Ciência da Computação
+    Universidade São Judas Tadeu (2026 – 2030) [cursando]
+
+cursos_complementares:
   - Introdução à Ciência da Computação — Harvard University
-  - Programa Mundo do Trabalho
+    (Python, C, SQL, HTML/CSS/JS, Flask) — 2023
+  - Especialista em Algoritmos e Programação — USJT — 2026
 
-foco_atual:
-  - Agentes de IA para WhatsApp (atendimento, vendas, suporte)
-  - Automações complexas em N8N (self-hosted, Docker Swarm)
-  - Inteligência comercial aplicada a negócios reais
+hard_skills:
+  - Automação de Processos
+  - Integração de Inteligência Artificial
+  - Ferramentas Low Code
 
-missão:        "Transformar processos manuais em sistemas
-                autônomos, inteligentes e escaláveis."
+soft_skills:
+  - Resolução de Problemas
+  - Visão de Processos
+  - Comunicação técnica
+  - Aprendizagem rápida e adaptabilidade
+
+idiomas:         Português (nativo) · Inglês (intermediário) · Espanhol (intermediário)
+
+missão:          "Transformar processos manuais em sistemas
+                  autônomos, inteligentes e escaláveis."
 ```
 
 </td>
@@ -63,49 +74,60 @@ missão:        "Transformar processos manuais em sistemas
 
 <div align="center">
 
-### 🧠 Automação & IA
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Evolution_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatbot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+**Linguagens & Web**
 
-### 💻 Linguagens
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark" />
 
-### ☁️ Infra & Dados
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+<br/><br/>
 
-</div>
+**Automação & Inteligência Artificial**
 
-<br/>
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" title="n8n" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openai/00A67E" width="48" height="48" title="OpenAI / LLMs" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" title="WhatsApp API" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/chatwoot/1F93FF" width="48" height="48" title="Chatwoot" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/redis/DC382D" width="48" height="48" title="Redis" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/webhooks/6C5CE7" width="48" height="48" title="Webhooks" />
 
-## <img src="https://media.giphy.com/media/QLcCBdBemDIqpbK6jA/giphy.gif" width="32"> FERRAMENTAS // `toolkit`
+<br/><br/>
 
-<div align="center">
+**Infra, Dados & Ferramentas**
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,vscode,idea,postman,figma&theme=dark" />
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="48" height="48" title="Supabase" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlesheets/34A853" width="48" height="48" title="Google Sheets" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/totvs/00A651" width="48" height="48" title="TOTVS Protheus (ERP)" />
 
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32"> PROJETOS // `deployed_systems`
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32"> EXPERIÊNCIA // `career_log`
+
+```bash
+kauan@dev-core:~$ cat experiencia.log
+
+[05/2025 → ATUAL]  Agência MADA — Gestor (Home office)
+  > Desenvolvimento, orquestração e manutenção de fluxos de
+    automação de processos utilizando n8n e Python
+  > Integração de sistemas e serviços externos via APIs REST,
+    Webhooks e consultas em banco de dados SQL
+  > Implementação de soluções com IA Generativa, LLMs e
+    Engenharia de Prompts para otimização de fluxos operacionais
+
+[02/2024 → 04/2025]  EFD, Diadema — Jovem Aprendiz Administrativo
+  > Atendimento direto a clientes internacionais (inglês/espanhol),
+    gerenciando envio de amostras para o mercado LATAM
+  > Gestão ponta a ponta do processo de devolução de produtos
+    não conformes, garantindo fluxo operacional e resolução de pendências
+  > Emissão, criação e alteração de pedidos no ERP TOTVS Protheus
+
+kauan@dev-core:~$ _
+```
+
+<br/>
+
+## <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="32"> PROJETOS // `deployed_systems`
 
 <table width="100%">
 <tr>
@@ -215,10 +237,7 @@ kauan@dev-core:~$ _
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ff00c8&labelColor=0f0c29"/>
 </a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=6c5ce7&labelColor=0f0c29"/>
-</a>
-<a href="#" target="_blank">
+<a href="mailto:kauanm.dev@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00fff2&labelColor=0f0c29"/>
 </a>
 
