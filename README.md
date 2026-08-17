@@ -82,20 +82,19 @@ missão:          "Transformar processos manuais em sistemas
 
 **Automação & Inteligência Artificial**
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/OpenAI-00A67E?style=for-the-badge&logo=openai&logoColor=white&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white&labelColor=0f0c29"/>
-<img src="https://skillicons.dev/icons?i=redis&theme=dark" height="35" />
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" title="n8n" alt="n8n" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openai/00A67E" width="48" height="48" title="OpenAI" alt="OpenAI" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" title="WhatsApp Business API" alt="WhatsApp" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/chatwoot/1F93FF" width="48" height="48" title="Chatwoot" alt="Chatwoot" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" />
 
 <br/><br/>
 
 **Infra, Dados & Ferramentas**
 
 <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,vscode,idea,postman,figma&theme=dark" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/TOTVS_Protheus_(ERP)-00A651?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="48" height="48" title="Supabase" alt="Supabase" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlesheets/34A853" width="48" height="48" title="Google Sheets" alt="Google Sheets" />
 
 </div>
 
