@@ -83,7 +83,7 @@ missão:          "Transformar processos manuais em sistemas
 **Automação & Inteligência Artificial**
 
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" title="n8n" alt="n8n" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openai/00A67E" width="48" height="48" title="OpenAI" alt="OpenAI" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" title="OpenAI" alt="OpenAI" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" title="WhatsApp Business API" alt="WhatsApp" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/chatwoot/1F93FF" width="48" height="48" title="Chatwoot" alt="Chatwoot" />&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=redis&theme=dark" />
