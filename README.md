@@ -221,8 +221,6 @@ kauan@dev-core:~$ _
 
 </div>
 
-> 💡 A animação da snake é gerada automaticamente via GitHub Actions. Adicione o workflow oficial [`Platane/snk`](https://github.com/Platane/snk) ao repositório `devkauanm/devkauanm` para ativá-la no seu perfil.
-
 <br/>
 
 ## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="32"> CONECTAR // `connect`
