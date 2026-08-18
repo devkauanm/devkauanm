@@ -232,13 +232,13 @@ kauan@dev-core:~$ _
 <a href="https://github.com/devkauanm" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00fff2&labelColor=0f0c29"/>
 </a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ff00c8&labelColor=0f0c29"/>
-</a>
-<a href="mailto:kauanm.dev@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00fff2&labelColor=0f0c29"/>
+<a href="./contato.html">
+  <img src="https://img.shields.io/badge/Enviar%20E--mail-00FFF2?style=for-the-badge&logo=gmail&logoColor=black" alt="Enviar e-mail">
 </a>
 
+<a href="https://www.linkedin.com/in/kauan-martins-6482b62a1" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 </div>
 
 <br/>
