@@ -62,7 +62,7 @@ missão:          "Transformar processos manuais em sistemas
 </td>
 <td width="40%" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="32">
 
 </td>
 </tr>
