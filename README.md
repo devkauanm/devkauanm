@@ -59,13 +59,6 @@ missão:          "Transformar processos manuais em sistemas
                   autônomos, inteligentes e escaláveis."
 ```
 
-</td>
-<td width="40%" valign="top">
-
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="32">
-
-</td>
-</tr>
 </table>
 
 <br/>
