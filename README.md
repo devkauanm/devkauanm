@@ -20,7 +20,7 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> SOBRE MIM // `whoami`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> SOBRE MIM // `profile`
 
 <table>
 <tr>
@@ -70,7 +70,7 @@ missão:          "Transformar processos manuais em sistemas
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="32"> TECH STACK // `neural_core`
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="32"> TECH STACK // `technologies`
 
 <div align="center">
 
@@ -100,7 +100,7 @@ missão:          "Transformar processos manuais em sistemas
 
 <br/>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32"> EXPERIÊNCIA // `career_log`
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32"> EXPERIÊNCIA // `experience`
 
 ```bash
 kauan@dev-core:~$ cat experiencia.log
@@ -125,7 +125,7 @@ kauan@dev-core:~$ _
 
 <br/>
 
-## <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="32"> PROJETOS // `deployed_systems`
+## <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="32"> PROJETOS // `projects`
 
 <table width="100%">
 <tr>
@@ -168,7 +168,7 @@ Site de portfólio pessoal desenvolvido em React + Vite, com deploy contínuo na
 
 <br/>
 
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="32"> OBJETIVOS ATUAIS // `terminal`
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="32"> OBJETIVOS ATUAIS // `roadmap`
 
 ```bash
 kauan@dev-core:~$ cat objetivos_2026.txt
@@ -184,7 +184,7 @@ kauan@dev-core:~$ _
 
 <br/>
 
-## <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="32"> GITHUB ANALYTICS // `data_stream`
+## <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="32"> GITHUB ANALYTICS // `statistics`
 
 <div align="center">
 
@@ -225,7 +225,7 @@ kauan@dev-core:~$ _
 
 <br/>
 
-## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="32"> CONECTAR // `network_uplink`
+## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="32"> CONECTAR // `connect`
 
 <div align="center">
 
