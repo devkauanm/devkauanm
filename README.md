@@ -28,28 +28,25 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> SOBRE MIM // `profile`
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="130" />
-
-<br/><br/>
-
 ```yaml
 > USER_PROFILE.log
 
 nome:            Kauan Martins Silva
 objetivo:        Desenvolvedor FullStack Junior
-cargo_atual:     Gestor de Automações — Agência MADA (2025 – atualmente)
+status:          Cursando Ciência da Computação · Aberto a novas oportunidades
 
 bio: >
-  Estudante de Ciência da Computação, atuando como Gestor de
-  Automações. Desenvolvo soluções que automatizam processos, integram APIs e
-  utilizam Inteligência Artificial para aumentar produtividade —
-  sempre com foco em resultado real para quem usa.
+  Estudante de Ciência da Computação com experiência em automação
+  de processos, integração de APIs e Inteligência Artificial.
+  Desenvolvo soluções com foco em resultado real para quem usa,
+  e estou em busca de novos desafios.
 
 trajetória:
   - 2022 → Primeiros passos com Python e lógica de programação,
            construindo scripts e integrações simples
   - 2024 → Jovem Aprendiz Administrativo — EFD, Diadema
-  - 2025 → Gestor de Automações — Agência MADA [atual]
+  - 2025 → Gestor de Automações — Agência MADA
+  - 2026 → Em busca de novas oportunidades [atual]
 
 formação:
   - Bacharelado em Ciência da Computação
@@ -81,7 +78,7 @@ missão:          "Transformar processos manuais em soluções
 
 <img src="https://skillicons.dev/icons?i=postgres,docker,github&theme=dark" />
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" title="n8n" alt="n8n" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openai/00A67E" width="48" height="48" title="OpenAI" alt="OpenAI" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/OpenAI-00A67E?style=for-the-badge&logo=openai&logoColor=white&labelColor=0f0c29" height="48" title="OpenAI" alt="OpenAI" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="48" height="48" title="Supabase" alt="Supabase" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" title="WhatsApp Business API" alt="WhatsApp" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/chatwoot/1F93FF" width="48" height="48" title="Chatwoot" alt="Chatwoot" />
@@ -99,9 +96,9 @@ missão:          "Transformar processos manuais em soluções
 ```bash
 kauan@dev-core:~$ cat experiencia.log
 
-[2025 → ATUAL]  Agência MADA — Gestor de Automações
-  > Lidero o desenvolvimento de automações, integrações de API e
-    agentes de IA que eliminam trabalho manual e aceleram a
+[2025 → 09/2026]  Agência MADA — Gestor de Automações
+  > Liderei o desenvolvimento de automações, integrações de API e
+    agentes de IA que eliminaram trabalho manual e aceleraram a
     operação dos clientes
   > Stack: n8n, Python, JavaScript, APIs REST, Webhooks, OpenAI
 
@@ -115,6 +112,9 @@ kauan@dev-core:~$ cat experiencia.log
 [2022]  Primeiros passos em desenvolvimento
   > Início da jornada com Python e lógica de programação,
     construindo scripts e integrações simples entre sistemas
+
+[ATUAL]  Cursando Ciência da Computação — USJT
+  > Em busca de novas oportunidades como Desenvolvedor FullStack Junior
 
 kauan@dev-core:~$ _
 ```
@@ -169,22 +169,6 @@ Operação automatizada de BDR para buscar, enriquecer e qualificar leads, gerar
 </a>
 
 </div>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="32"> OBJETIVOS ATUAIS // `terminal`
-
-```bash
-kauan@dev-core:~$ cat objetivos_2026.txt
-
-[■■■■■■■■■□□] 80%  Escalar agentes de IA em produção na Agência MADA
-[■■■■■■□□□□] 60%  Avançar no Bacharelado em Ciência da Computação (USJT)
-[■■■■■□□□□□] 50%  Consolidar o portfólio com novos cases documentados
-[■■■□□□□□□□] 30%  Expandir presença open-source no GitHub
-[■■□□□□□□□□] 20%  Explorar arquiteturas multi-agente para inteligência comercial
-
-kauan@dev-core:~$ _
-```
 
 <br/>
 
