@@ -174,26 +174,11 @@ Operação automatizada de BDR para buscar, enriquecer e qualificar leads, gerar
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devkauanm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=ff00c8&text_color=c9d1d9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkauanm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&langs_count=8" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkauanm&theme=tokyonight&hide_border=true&background=0D1117&stroke=00fff2&ring=ff00c8&fire=ff00c8&currStreakLabel=00fff2" />
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devkauanm&theme=tokyo-night&bg_color=0d1117&color=00fff2&line=ff00c8&point=ffffff&hide_border=true&area=true" width="100%"/>
-
-</div>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/1qfKN8Dt0y3BdlEeMc/giphy.gif" width="32"> TROPHIES // `achievements`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devkauanm&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
 </div>
 
