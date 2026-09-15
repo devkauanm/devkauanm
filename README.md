@@ -1,16 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=KAUAN%20MARTINS%20SILVA&fontSize=50&fontColor=00fff2&fontAlignY=38&desc=SYSTEM%20ONLINE%20//%20FULLSTACK%20DEVELOPER%20%C2%B7%20AUTOMATION%20MANAGER&descAlignY=58&descAlign=50&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=KAUAN%20MARTINS%20SILVA&fontSize=50&fontColor=00fff2&fontAlignY=38&desc=SYSTEM%20ONLINE%20//%20FULLSTACK%20DEVELOPER%20%C2%B7%20AUTOMATION%20%C2%B7%20AI&descAlignY=58&descAlign=50&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=100&lines=%3E+INITIALIZING+KAUAN.EXE...;%3E+ROLE%3A+DESENVOLVEDOR+FULLSTACK+JUNIOR;%3E+CORE%3A+N8N+%7C+IA+GENERATIVA+%7C+AUTOMA%C3%87%C3%83O;%3E+ACCESS+GRANTED+%E2%9C%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=100&lines=%3E+INITIALIZING+KAUAN.EXE...;%3E+ROLE%3A+DESENVOLVEDOR+FULLSTACK+JUNIOR;%3E+CORE%3A+N8N+%7C+IA+GENERATIVA+%7C+SISTEMAS;%3E+ACCESS+GRANTED+%E2%9C%93" alt="Typing SVG" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0f0c29&logo=statuspage&logoColor=00fff2" />
 <img src="https://img.shields.io/badge/CARGO-FULLSTACK_JUNIOR-ff00c8?style=for-the-badge&labelColor=0f0c29&logo=codeforces&logoColor=ff00c8" />
 <img src="https://img.shields.io/badge/LOCALIZAÇÃO-BRASIL-6c5ce7?style=for-the-badge&labelColor=0f0c29&logo=googlemaps&logoColor=6c5ce7" />
+
+<br/><br/>
+
+<a href="https://portfolio-kauanmdev.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🔗_Portfólio_Completo-kauan.dev-00fff2?style=for-the-badge&labelColor=0f0c29" />
+</a>
 
 </div>
 
@@ -22,44 +28,42 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> SOBRE MIM // `profile`
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="130" />
+
+<br/><br/>
 
 ```yaml
 > USER_PROFILE.log
 
 nome:            Kauan Martins Silva
 objetivo:        Desenvolvedor FullStack Junior
-cargo_atual:     Gestor — Agência MADA (05/2025 – presente)
+cargo_atual:     Gestor de Automações — Agência MADA (2025 – atualmente)
+
+bio: >
+  Estudante de Ciência da Computação, atuando como Gestor de
+  Automações. Desenvolvo soluções que automatizam processos, integram APIs e
+  utilizam Inteligência Artificial para aumentar produtividade —
+  sempre com foco em resultado real para quem usa.
+
+trajetória:
+  - 2022 → Primeiros passos com Python e lógica de programação,
+           construindo scripts e integrações simples
+  - 2024 → Jovem Aprendiz Administrativo — EFD, Diadema
+  - 2025 → Gestor de Automações — Agência MADA [atual]
 
 formação:
   - Bacharelado em Ciência da Computação
-    Universidade São Judas Tadeu (2026 – 2030) [cursando]
+    Universidade São Judas Tadeu (2026 – 2029) [cursando]
 
 cursos_complementares:
-  - Introdução à Ciência da Computação — Harvard University
-    (Python, C, SQL, HTML/CSS/JS, Flask) — 2023
-  - Especialista em Algoritmos e Programação — USJT — 2026
-
-hard_skills:
-  - Automação de Processos
-  - Integração de Inteligência Artificial
-  - Ferramentas Low Code
-
-soft_skills:
-  - Resolução de Problemas
-  - Visão de Processos
-  - Comunicação técnica
-  - Aprendizagem rápida e adaptabilidade
+  - Introdução à Ciência da Computação — CS50, Harvard (via Curso no Brasil)
+  - Especialista em Algoritmos e Programação — USJT
 
 idiomas:         Português (nativo) · Inglês (intermediário) · Espanhol (intermediário)
 
-missão:          "Transformar processos manuais em sistemas
-                  autônomos, inteligentes e escaláveis."
+missão:          "Transformar processos manuais em soluções
+                  inteligentes com IA, APIs e automações."
 ```
-
-</table>
 
 <br/>
 
@@ -67,27 +71,24 @@ missão:          "Transformar processos manuais em sistemas
 
 <div align="center">
 
-**Linguagens & Web**
+**Linguagens & Frontend**
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,tailwind,html,css&theme=dark" />
 
 <br/><br/>
 
 **Automação & Inteligência Artificial**
 
+<img src="https://skillicons.dev/icons?i=postgres,docker,github&theme=dark" />
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" title="n8n" alt="n8n" />&nbsp;&nbsp;&nbsp;
-<img src="./openai.svg" width="48" height="48" title="OpenAI" alt="OpenAI" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openai/00A67E" width="48" height="48" title="OpenAI" alt="OpenAI" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="48" height="48" title="Supabase" alt="Supabase" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" title="WhatsApp Business API" alt="WhatsApp" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/chatwoot/1F93FF" width="48" height="48" title="Chatwoot" alt="Chatwoot" />&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=redis&theme=dark" />
+<img src="https://cdn.simpleicons.org/chatwoot/1F93FF" width="48" height="48" title="Chatwoot" alt="Chatwoot" />
 
 <br/><br/>
 
-**Infra, Dados & Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,vscode,idea,postman,figma&theme=dark" />
-<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="48" height="48" title="Supabase" alt="Supabase" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/googlesheets/34A853" width="48" height="48" title="Google Sheets" alt="Google Sheets" />
+<sub>APIs REST · Webhooks · Prompt Engineering · Low-Code</sub>
 
 </div>
 
@@ -98,20 +99,22 @@ missão:          "Transformar processos manuais em sistemas
 ```bash
 kauan@dev-core:~$ cat experiencia.log
 
-[05/2025 → ATUAL]  Agência MADA — Gestor (Home office)
-  > Desenvolvimento, orquestração e manutenção de fluxos de
-    automação de processos utilizando n8n e Python
-  > Integração de sistemas e serviços externos via APIs REST,
-    Webhooks e consultas em banco de dados SQL
-  > Implementação de soluções com IA Generativa, LLMs e
-    Engenharia de Prompts para otimização de fluxos operacionais
+[2025 → ATUAL]  Agência MADA — Gestor de Automações
+  > Lidero o desenvolvimento de automações, integrações de API e
+    agentes de IA que eliminam trabalho manual e aceleram a
+    operação dos clientes
+  > Stack: n8n, Python, JavaScript, APIs REST, Webhooks, OpenAI
 
-[02/2024 → 04/2025]  EFD, Diadema — Jovem Aprendiz Administrativo
+[2024 → 2025]  EFD, Diadema — Jovem Aprendiz Administrativo
   > Atendimento direto a clientes internacionais (inglês/espanhol),
-    gerenciando envio de amostras para o mercado LATAM
+    acompanhamento de pedidos para o mercado LATAM
   > Gestão ponta a ponta do processo de devolução de produtos
     não conformes, garantindo fluxo operacional e resolução de pendências
-  > Emissão, criação e alteração de pedidos no ERP TOTVS Protheus
+  > Emissão e alteração de pedidos no ERP TOTVS Protheus
+
+[2022]  Primeiros passos em desenvolvimento
+  > Início da jornada com Python e lógica de programação,
+    construindo scripts e integrações simples entre sistemas
 
 kauan@dev-core:~$ _
 ```
@@ -124,40 +127,64 @@ kauan@dev-core:~$ _
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Farioli Digital — Agente IA
-Agente de IA para WhatsApp com atendimento e qualificação de leads, atendendo tatuadores, restaurantes, imobiliárias e lojas de carros. Migrado da Evolution API para a API Oficial do WhatsApp, com gestão de conversas via Chatwoot e sistema de pausa automática com Redis.
+### 🤖 Agente de IA para WhatsApp
+Agente inteligente integrado ao WhatsApp utilizando IA, DeepRAG, OpenAI, WhatsApp API e Supabase para atendimento e qualificação de leads em tempo real.
 
-`n8n` `OpenAI` `Chatwoot` `Redis` `WhatsApp API`
+`Python` `n8n` `OpenAI` `Supabase` `Webhook`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 Reels → Shorts Pipeline
-Pipeline de automação que replica Reels do Instagram para YouTube Shorts. Arquitetura de 5 fases: Trigger, Coleta, Filtragem, Enriquecimento e Publicação, com deduplicação via Google Sheets e geração de metadados por IA.
+### 📈 Sistema de Automação Comercial
+Automação para captura de dados de compras, integração com CRM, disparo inteligente de mensagens e gerenciamento completo do funil de clientes.
 
-`n8n` `OpenAI` `Google Sheets` `YouTube API`
+`n8n` `CRM` `APIs` `Automação`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📋 Sistema de Gestão de Demandas
-Sistema completo de gerenciamento de projetos em Java, seguindo o padrão MVC com interface Swing e banco de dados MySQL hospedado na Railway.
+### 📊 Dashboard Administrativo
+Dashboard para acompanhamento de métricas, indicadores e gestão operacional com visualização de dados em tempo real.
 
-`Java` `MySQL` `Swing` `MVC` `Railway`
+`React` `Next.js` `SQL` `Dashboards`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Portfólio Pessoal
-Site de portfólio pessoal desenvolvido em React + Vite, com deploy contínuo na Vercel e refinamento visual no Cursor.
+### 🎯 Automação de Prospecção BDR
+Operação automatizada de BDR para buscar, enriquecer e qualificar leads, gerar mensagens comerciais com IA e iniciar contatos personalizados em escala.
 
-`React` `Vite` `Vercel`
+`n8n` `OpenAI` `Google Sheets` `WhatsApp` `Chatwoot` `Supabase` `PostgreSQL` `JavaScript`
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<a href="https://portfolio-kauanmdev.vercel.app/#projects" target="_blank">
+<img src="https://img.shields.io/badge/Ver_todos_os_projetos_em_detalhe-00fff2?style=for-the-badge&labelColor=0f0c29" />
+</a>
+
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="32"> OBJETIVOS ATUAIS // `terminal`
+
+```bash
+kauan@dev-core:~$ cat objetivos_2026.txt
+
+[■■■■■■■■■□□] 80%  Escalar agentes de IA em produção na Agência MADA
+[■■■■■■□□□□] 60%  Avançar no Bacharelado em Ciência da Computação (USJT)
+[■■■■■□□□□□] 50%  Consolidar o portfólio com novos cases documentados
+[■■■□□□□□□□] 30%  Expandir presença open-source no GitHub
+[■■□□□□□□□□] 20%  Explorar arquiteturas multi-agente para inteligência comercial
+
+kauan@dev-core:~$ _
+```
 
 <br/>
 
@@ -204,26 +231,20 @@ Site de portfólio pessoal desenvolvido em React + Vite, com deploy contínuo na
 
 <div align="center">
 
+<a href="https://portfolio-kauanmdev.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfólio-00fff2?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0f0c29" />
+</a>
 <a href="https://github.com/devkauanm" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00fff2&labelColor=0f0c29"/>
 </a>
-<p align="center">
+<a href="https://www.linkedin.com/in/kauan-martins-6482b62a1" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:kauanm.dev@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/E--mail-00FFF2?style=for-the-badge&logo=gmail&logoColor=000000"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/kauan-martins-6482b62a1" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://devkauanm.github.io/devkauanm/contato.html" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Enviar%20E--mail-00FFF2?style=for-the-badge&logo=gmail&logoColor=000000"
-      alt="Enviar e-mail"
-    />
-  </a>
-
-</p>
+</div>
 
 <br/>
 
