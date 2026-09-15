@@ -161,22 +161,6 @@ Site de portfólio pessoal desenvolvido em React + Vite, com deploy contínuo na
 
 <br/>
 
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="32"> OBJETIVOS ATUAIS // `roadmap`
-
-```bash
-kauan@dev-core:~$ cat objetivos_2026.txt
-
-[■■■■■■■■■□□] 80%  Concluir integração multi-agente de IA (Farioli Digital)
-[■■■■■■□□□□] 60%  Avançar no Bacharelado em Ciência da Computação (USJT)
-[■■■■■□□□□□] 50%  Escalar automações N8N em ambiente Docker Swarm / fila
-[■■■□□□□□□□] 30%  Expandir portfólio open-source no GitHub
-[■■□□□□□□□□] 20%  Explorar arquiteturas multi-agente para inteligência comercial
-
-kauan@dev-core:~$ _
-```
-
-<br/>
-
 ## <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="32"> GITHUB ANALYTICS // `statistics`
 
 <div align="center">
