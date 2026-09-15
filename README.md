@@ -42,8 +42,6 @@ bio: >
   e estou em busca de novos desafios.
 
 trajetória:
-  - 2022 → Primeiros passos com Python e lógica de programação,
-           construindo scripts e integrações simples
   - 2024 → Jovem Aprendiz Administrativo — EFD, Diadema
   - 2025 → Gestor de Automações — Agência MADA
   - 2026 → Em busca de novas oportunidades [atual]
@@ -96,13 +94,13 @@ missão:          "Transformar processos manuais em soluções
 ```bash
 kauan@dev-core:~$ cat experiencia.log
 
-[2025 → 09/2026]  Agência MADA — Gestor de Automações
+[05/2025 → 09/2026]  Agência MADA — Gestor de Automações
   > Liderei o desenvolvimento de automações, integrações de API e
     agentes de IA que eliminaram trabalho manual e aceleraram a
     operação dos clientes
   > Stack: n8n, Python, JavaScript, APIs REST, Webhooks, OpenAI
 
-[2024 → 2025]  EFD, Diadema — Jovem Aprendiz Administrativo
+[02/2024 → 04/2025]  EFD, Diadema — Jovem Aprendiz Administrativo
   > Atendimento direto a clientes internacionais (inglês/espanhol),
     acompanhamento de pedidos para o mercado LATAM
   > Gestão ponta a ponta do processo de devolução de produtos
