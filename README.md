@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0f0c29&logo=statuspage&logoColor=00fff2" />
 <img src="https://img.shields.io/badge/CARGO-FULLSTACK_JUNIOR-ff00c8?style=for-the-badge&labelColor=0f0c29&logo=codeforces&logoColor=ff00c8" />
-<img src="https://img.shields.io/badge/LOCALIZAÇÃO-SÃO PAULO - BRASIL-6c5ce7?style=for-the-badge&labelColor=0f0c29&logo=googlemaps&logoColor=6c5ce7" />
+<img src="https://img.shields.io/badge/LOCALIZAÇÃO-BRASIL-6c5ce7?style=for-the-badge&labelColor=0f0c29&logo=googlemaps&logoColor=6c5ce7" />
 
 <br/><br/>
 
